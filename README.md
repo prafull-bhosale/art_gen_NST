@@ -1,1 +1,1 @@
-# art_gen_NST
+# Art Generation with Neural Style Transfer (NST) using VGG-19 
